@@ -1,5 +1,3 @@
-# [Submitted to ACM MM 2024] Self-Paced Weighting Online Hashing for Image Retrieval
-
 
 ## Running Environment
 ```matlab
